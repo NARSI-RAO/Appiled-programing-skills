@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
