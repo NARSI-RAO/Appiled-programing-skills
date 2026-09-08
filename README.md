@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0739-daily-temperatures) |
@@ -102,13 +103,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
