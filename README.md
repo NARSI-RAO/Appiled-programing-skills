@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0739-daily-temperatures) |
+| [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -82,4 +83,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0946-validate-stack-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
