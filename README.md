@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0739-daily-temperatures) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Range Minimum/Maximum Query
 |  |
