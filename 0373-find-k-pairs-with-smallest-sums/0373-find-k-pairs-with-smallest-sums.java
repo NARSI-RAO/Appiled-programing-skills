@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
         List<List<Integer>> result = new ArrayList<>();
@@ -20,7 +19,6 @@ class Solution {
                 minHeap.offer(new int[]{nums1[i] + nums2[j + 1], i, j + 1});
             }
         }
-
         return result;
     }
 }
