@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0735-asteroid-collision) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Range Minimum/Maximum Query
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NARSI-RAO/Appiled-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
